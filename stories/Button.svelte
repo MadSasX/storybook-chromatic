@@ -38,5 +38,5 @@
   class={['storybook-button', `storybook-button--${size}`, mode].join(' ')}
   {style}
   on:click={onClick}>
-  {label}
+  Clone {label}
 </button>
