@@ -4,7 +4,7 @@ Found & ignored ./stories/button.css ; has ignored extension
 Found & ignored ./stories/header.css ; has ignored extension
 Found & ignored ./stories/page.css ; has ignored extension
 
-Starting: build-storybook -- --output-dir ./build-storybook
+Starting: build-storybook -- --output-dir /var/folders/1q/960br16s3m15dw3rdl9_m18c0000gn/T/chromatic--39061-9mYcxTCOq13y
 node:internal/modules/cjs/loader:928
   throw err;
   ^
